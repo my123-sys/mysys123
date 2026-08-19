@@ -33,4 +33,3 @@ YOU will not use our services for any illegal or unauthorized purpose;
 YOUR use of our services will not violate any applicable law or regulation.
 
 ALL INFORMATION AND TERMS OF SERVICE CAN AND BE ACESSIBLE ALL ON https://eaglercraft.com/p/legal#terms-of-service OR https://eaglercraft.com/
---End--
