@@ -2,7 +2,7 @@
 aaaaaaaaaaaAAAAAAAAAAAAAAA
 Hello, there no page found.
 
-This is not my work it owned by LAX1DUDE.
+This is not my work it is owned by LAX1DUDE.
 The offline signed is from https://eaglercraft.com/
 
 Terms of Service
