@@ -5,8 +5,8 @@ Hello, there no page found.
 This is not my work it is owned by LAX1DUDE.
 The offline signed is from https://eaglercraft.com/
 
-Terms of Service
-                                                     
+<p align="center">Term Of Service</p>
+
 These terms are between you and Eaglercraft ("we", "our", "us", "the services"), and you agree to them by using the services we provide.
 
 Our services are provided on "as is" basis, without warranty of any kind, express or implied, including but not to the warranties of merchantability, and fitness for a particular purpose.
