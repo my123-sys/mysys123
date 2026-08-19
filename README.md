@@ -36,3 +36,18 @@ YOUR use of our services will not violate any applicable law or regulation.
 *IF YOU PLAY AND OR USE THE CONTENT OF https://eaglercraft.com/ YOU AGREE TO THE TERMS OF SERVICE*
 
 ALL INFORMATION AND TERMS OF SERVICE CAN AND BE ACESSIBLE ALL ON https://eaglercraft.com/p/legal#terms-of-service OR https://eaglercraft.com/
+
+How to use 
+
+first click on the file you want to download:
+<img width="1365" height="690" alt="image" src="https://github.com/user-attachments/assets/55a0d473-e3ff-4573-a8a1-0e78804baa0a" />
+next, click on the download button:
+<img width="1348" height="596" alt="image" src="https://github.com/user-attachments/assets/333d3c76-61bc-4a44-8514-108eb28a0a92" />
+next, change;
+
+EaglercraftX_1.8_u53_Offline_Signed.txt to EaglercraftX_1.8_u53_Offline_Signed.html on Google drive right click the file:
+
+<img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/ce33278b-f351-40e2-8da3-eeb8a1e9fab8" />
+then click rename and change it to html.
+<img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/a838b57a-789a-430e-9dc7-60d1edc0c173" />
+to run for chrome type file:/// in URL bar and for Windows type file:///C:/
