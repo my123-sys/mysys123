@@ -18,12 +18,19 @@ There are a few registered trademarks on this page. All copyrights belong to the
 
 By using our services, you represent and warrant that:
 
-you will use this site for educational/archivial purposes;
-you have the legal capacity, and you agree to comply with these Terms of Service;
-you are not under the age of 13;
-you are not a minor in the jurisdiction in which you reside, or you have received parental permission to use our services;
-you will not excessively access our services through automated or non-human means;
-you will not use our services for any illegal or unauthorized purpose;
-your use of our services will not violate any applicable law or regulation.
-ALL INFORMATION CAN AND BE ACESSIBLE ALL ON https://eaglercraft.com/p/legal#terms-of-service
+YOU will use this site for educational/archivial purposes;
+
+YOU have the legal capacity, and you agree to comply with these Terms of Service;
+
+YOU are not under the age of 13;
+
+YOU are not a minor in the jurisdiction in which you reside, or you have received parental permission to use our services;
+
+YOU will not excessively access our services through automated or non-human means;
+
+YOU will not use our services for any illegal or unauthorized purpose;
+
+YOUR use of our services will not violate any applicable law or regulation.
+
+ALL INFORMATION AND TERMS OF SERVICE CAN AND BE ACESSIBLE ALL ON https://eaglercraft.com/p/legal#terms-of-service OR https://eaglercraft.com/
 --End--
