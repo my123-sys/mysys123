@@ -51,3 +51,4 @@ EaglercraftX_1.8_u53_Offline_Signed.txt to EaglercraftX_1.8_u53_Offline_Signed.h
 then click rename and change it to html.
 <img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/a838b57a-789a-430e-9dc7-60d1edc0c173" />
 to run for chrome type file:/// in URL bar and for Windows type file:///C:/
+<img width="1344" height="677" alt="image" src="https://github.com/user-attachments/assets/40be0d3a-4fb0-4f01-b1a2-3e73fbd02b51" />
