@@ -39,7 +39,7 @@ YOUR use of our services will not violate any applicable law or regulation.
 
 ALL INFORMATION AND TERMS OF SERVICE CAN AND BE ACESSIBLE ALL ON https://eaglercraft.com/p/legal#terms-of-service OR https://eaglercraft.com/
 
-How to use 
+How to Run/Use 
 
 first click on the file you want to download:
 
