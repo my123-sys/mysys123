@@ -1,7 +1,8 @@
 # mysys123
 aaaaaaaaaaaAAAAAAAAAAAAAAA
 Hello, there no page found.
-if you want more stuff to be add be sure to contact me!!!
+
+if you want more stuff to be add be sure to contact me!!! personal email: juliando12345678+my123-sysInquires@gmail.com WARNING: (PLEASE DON'T use your school email).
 
 This is not my work it is owned by LAX1DUDE.
 The offline signed is from https://eaglercraft.com/
