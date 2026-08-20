@@ -4,6 +4,7 @@ Hello, there no page found.
 
 if you want more stuff to be add be sure to contact me!!! personal email: juliando12345678+my123-sysInquires@gmail.com WARNING: (PLEASE DON'T use your school email because i will not respone or anwser to school email).
 
+YOU ARE HELD LIABILITY IF YOU USE ANY FLIE I HAVE IN https://github.com/my123-sys/mysys123 AND ALL OF MY RESPTORIY FOR ILLEGAL OR UNAUTHORIZED PURPOSE AND YOU WILL AGREE IF YOU RUN, DOWNLOAD AND EVEN IF YOU DO NOT READ THE README.md I WILL NOT BE HELD LIABILITY.
 
 How to Run/Use 
 
