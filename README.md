@@ -39,6 +39,10 @@ YOUR use of our services will not violate any applicable law or regulation.
 
 ALL INFORMATION AND TERMS OF SERVICE CAN AND BE ACESSIBLE ALL ON https://eaglercraft.com/p/legal#terms-of-service OR https://eaglercraft.com/
 
+MY Term of Service
+
+YOU ARE HELD liability if YOU USE ANY FLIE I HAVE IN https://github.com/my123-sys/mysys123 AND ALL OF MY RESPTORIY FOR ILLEGAL OR UNAUTHORIZED PURPOSE AND YOU WILL AGREE IF YOU RUN, DOWNLOAD AND EVEN IF YOU DO NOT READ THE README.md I WILL NOT BE HELD.
+
 How to Run/Use 
 
 first click on the file you want to download:
