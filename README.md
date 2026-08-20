@@ -2,7 +2,7 @@
 aaaaaaaaaaaAAAAAAAAAAAAAAA
 Hello, there no page found.
 
-if you want more stuff to be add be sure to contact me!!! personal email: juliando12345678+my123-sysInquires@gmail.com WARNING: (PLEASE DON'T use your school email).
+if you want more stuff to be add be sure to contact me!!! personal email: juliando12345678+my123-sysInquires@gmail.com WARNING: (PLEASE DON'T use your school email because i will not respone or anwser to school email).
 
 This is not my work it is owned by LAX1DUDE.
 The offline signed file is from https://eaglercraft.com/
